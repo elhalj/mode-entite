@@ -1,0 +1,16 @@
+Votre Objectif
+
+Vous décidez de rejoindre une très grande chaîne de gymnastique connue. Quand vous arrivez, vous allez à la réception. Vous trouvez le propriétaire qui argumente avec un membre qui souhaite assister à une session pour laquelle il n'a pas été inscrit. Votre tour arrive finalement, le propriétaire s'excuse de vous laisser attendre si longtemps. Il explique que son employé, chargé des inscriptions, a commis une erreur en choisissant la session du membre.
+
+Vous êtes surpris qu'un gymnase aussi reconnu utilise encore les cartes pour gérer son grand nombre de clients. Donc vous parlez au propriétaire pour résoudre ce problème. Intéressé par votre connaissance, il vous demande de lui trouver une solution, en retour il vous offrira une inscription gratuite de 3 mois.
+
+Le propriétaire vous informe que:
+
+    Il possède plusieurs gymnases qui se distinguent par leurs noms, adresses et numéro de téléphone.
+    Les membres peuvent s'inscrire dans l'un de ces gymnases, de sorte qu'ils doivent fournir les informations suivantes: identifiant unique, nom, prénom, adresse, date de naissance et sexe.
+    Chaque session se caractérise par un type de sport et un horaire et peut accueillir un maximum de 20 membres.
+    Les sessions sont dirigées par un maximum de deux entraîneurs qui ont un nom de famille, un prénom, un âge et une spécialité.
+
+Instructions
+
+Compte tenu du texte mentionné ci-dessus, essayez de créer le modèle de relation d'Entité.
